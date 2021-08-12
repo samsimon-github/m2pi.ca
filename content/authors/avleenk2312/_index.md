@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: PhD - Mathematics
-    institution: Univerisity of Manitoba
+    institution: University of Manitoba
   - course: MSc - Mathematics
     institution: University of Manitoba
   - course: MSc - Mathematics and Scientific Computing
