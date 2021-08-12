@@ -11,14 +11,14 @@ role: Graduate Student
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: University of Calgary, Department of Mathematics and Statistics
+- name: University of Calgary
   url: https://science.ucalgary.ca/mathematics-statistics
 
 # A list of your interests, add as many as you want
 interests:
 - Langlands Program
 - Automorphic forms
-- Number Theory
+- Computational aspects of mathematics
 # Your educational history, add as many as you want
 education:
   courses:
@@ -39,10 +39,9 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 8 nr canada 2
+  role: Team 8 
 
 tags:
 - '2021'
 ---
-This is a freeform text area which supports markdown syntax. Fill in a couple of
-sentences describing yourself.
+I am a Ph.D. student in mathematics at the University of Calgary. My broad interests lie in representation theory and number theory. At UCalgary, I am a part of the Voganish project and my current research is on Vogan's conjectures for p-adic groups.  
