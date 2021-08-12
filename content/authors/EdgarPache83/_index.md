@@ -39,7 +39,7 @@ social:
   link: linkedin.com/in/m-sc-edgar-pacheco-castán-67752776
 
 user_groups:
-- committee: S. Moraga Scheuermann, E. Pacheco Castan, S. Islam, T. Pender, I. Pinheiro
+- committee: members
   role: Team 10 - TheoryMesh 
 
 tags:
