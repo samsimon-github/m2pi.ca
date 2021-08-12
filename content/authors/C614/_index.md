@@ -55,4 +55,4 @@ user_groups:
 tags:
 - '2021'
 ---
-I am a research fellow at University of Manitoba passionate about Graph alghorithms, Data Science and Python. 
+I am a research fellow at University of Manitoba, passionate about Graph alghorithms, Data Science and Python. 
