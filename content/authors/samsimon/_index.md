@@ -28,7 +28,7 @@ education:
     institution: Simon Fraser University  
   - course: Msc - Pure Math
     institution: Simon Fraser University
-  - course: BSc - Mathematics
+  - course: BSc - Mathematics and Physics
     institution: Carnegie Mellon University
 
 # Social/Academic Networking, delete any items you don't want to use
@@ -48,4 +48,4 @@ tags:
 - '2021'
 ---
 Sam is a PhD  at Simon Fraser University. With a background in pure math, his research includes lattice path enumeration and finding additional structure
-within Hadamard matrices. Although new to applied math, Same is excited to enter the world of machine learning and data science.
+within Hadamard matrices. Although new to applied math, Sam is excited to enter the world of machine learning and data science.
