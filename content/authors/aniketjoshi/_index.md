@@ -17,10 +17,9 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Machine Learning
-- General Purpose Data Science
+- AI/Machine Learning and Data science
 - Scientific software development and software engineering
-- Rock climbing, skiing, chess
+- String theory and representation theory
 
 # Your educational history, add as many as you want
 education:
