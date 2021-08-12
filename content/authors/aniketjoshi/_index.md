@@ -43,7 +43,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 6 - Mcmillan-Mcgee Team Member
+  role: Team 5 - Ioto International Team Member
 
 tags:
 - '2021'
