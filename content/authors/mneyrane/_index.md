@@ -49,4 +49,4 @@ tags:
 - '2021'
 ---
 
-Maksym is a MSc student at SFU's Department of Mathematics. His background and thesis concentrates on deep learning and compressed sensing, but also shares interests in numerical analysis and optimization, general machine learning and programming.
+Maksym is a MSc student at SFU's Department of Mathematics. His background and thesis concentrates on deep learning applied to compressed sensing, but also shares interests in numerical analysis and optimization, general machine learning and programming.
