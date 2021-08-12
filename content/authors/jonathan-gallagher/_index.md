@@ -35,11 +35,11 @@ education:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jonathan@infinitylab.io"
 
-# Social/Academic Networking, delete any items you don't want to use
-social:
-- icon: element
-  icon_pack: fab
-  link: @jonathan.gallagher:matrix.org
+# # Social/Academic Networking, delete any items you don't want to use
+# social:
+# - icon: element
+#   icon_pack: fab
+#   link: @jonathan.gallagher:matrix.org
 
 
 user_groups:
