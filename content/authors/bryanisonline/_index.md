@@ -17,8 +17,9 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Machine Learning
+- Algebra & Representation Theory
 - Cryptography
+- Machine Learning
 
 # Your educational history, add as many as you want
 education:
@@ -42,9 +43,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 7 - NRCAN
+  role: Team NRCAN 1
 
 tags:
 - '2021'
----
-
