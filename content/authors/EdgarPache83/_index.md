@@ -32,7 +32,7 @@ education:
 # Social/Academic Networking, delete any items you don't want to use
 social:
 - icon: github
-  icon_pack fab
+  icon_pack: fab
   link: https://github.com/Pache83
 - icon: linkedin
   icon_pack: fab
