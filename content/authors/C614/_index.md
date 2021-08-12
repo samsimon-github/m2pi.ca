@@ -27,7 +27,7 @@ education:
   - course: PhD - Mathematics
     institution: Univerisity of Manitoba
   - course: MSc - Mathematics
-    institution: Universidad of Manitoba and Kyiv National university
+    institution: University of Manitoba and Kyiv National university
   - course: BSc - Mathematics
     institution: Kyiv National university  
 
