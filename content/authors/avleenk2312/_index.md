@@ -58,7 +58,7 @@ tags:
 - '2021'
 ---
 
-##This is a freeform text area which supports markdown syntax. Fill in a couple of
-sentences describing yourself.
+##
 
-[https://sci.umanitoba.ca/mathematics/profiles/avleenkaur/]
+Avleen is a PhD Mathematics Student at the University of Manitoba.
+
