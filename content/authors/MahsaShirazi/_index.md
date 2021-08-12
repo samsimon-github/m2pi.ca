@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mahsa Shirazi
+title: Mahsa N. Shirazi
 
 # Username (this should match your github username)
 authors:
@@ -12,7 +12,7 @@ role: PhD Candidate
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: university of Regina
+- name: University of Regina
   url: https://www.uregina.ca/science/mathstat/faculty-staff/grads/shirazi_mahsa.html
 
 # A list of your interests, add as many as you want
@@ -21,14 +21,14 @@ interests:
 - Graph Theory
 - Combinatorics
 - Linear Algebra
-- Running
+- Running and Painting
 
 # Your educational history, add as many as you want
 education:
   courses:
   - course: PhD - Mathematics
     institution: Univerisity of Regina
-  - course: BSc - Numerical Analysis
+  - course: BSc - Mathematics, Numerical Analysis
     institution: Shiraz University of Technology
 
 # Social/Academic Networking, delete any items you don't want to use
@@ -50,4 +50,4 @@ user_groups:
 tags:
 - '2021'
 ---
-#Mahsa is a PhD candidate at the University of Regina.
+#Mahsa is a PhD candidate at the University of Regina. Her research project is centred around using graph theory to answer questions that arise in design theory. In particular, her main PhD research is on the extensions of the famous Erdős-Ko-Rado theorem to t-intersecting families of perfect matchings in graphs. She is Also interested in Matrix theory and linear algebra, and has a background in Numerical Analysis.
