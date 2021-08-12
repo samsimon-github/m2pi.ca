@@ -38,7 +38,7 @@ social:
 #  link: https://www.linkedin.com/in/guojun-ma-8a7780219/
 
 user_groups:
-- committees: member
+- committee: members
   role: Project 5 member
 
 tags:
