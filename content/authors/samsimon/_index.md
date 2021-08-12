@@ -47,5 +47,4 @@ user_groups:
 tags:
 - '2021'
 ---
-Sam is a PhD  at Simon Fraser University. With a background in pure math, his research includes lattice path enumeration and finding additional structure
-within Hadamard matrices. Although new to applied math, Sam is excited to enter the world of machine learning and data science.
+Sam is a PhD student at Simon Fraser University. With a background in pure math, his research includes the asymptotics enumeration of lattice paths and finding additional structure within Hadamard matrices. Although new to applied math, Sam is excited to enter the world of machine learning and data science.
