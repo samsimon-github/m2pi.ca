@@ -38,8 +38,10 @@ social:
 #  link: https://www.linkedin.com/in/guojun-ma-8a7780219/
 
 user_groups:
+- committees: IOTO International
   role: Project 5 member
 
 tags:
 - '2021'
 ---
+I am currently doing research in statistics and machine learning
