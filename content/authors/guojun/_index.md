@@ -38,7 +38,7 @@ social:
 #  link: https://www.linkedin.com/in/guojun-ma-8a7780219/
 
 user_groups:
-- committees: IOTO International
+- committees: member
   role: Project 5 member
 
 tags:
