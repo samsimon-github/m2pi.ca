@@ -50,4 +50,4 @@ user_groups:
 tags:
 - '2021'
 ---
-#Mahsa is a PhD candidate at the University of Regina. Her research project is centred around using graph theory to answer questions that arise in design theory. In particular, her main PhD research is on the extensions of the famous Erdős-Ko-Rado theorem to t-intersecting families of perfect matchings in graphs. She is Also interested in Matrix theory and linear algebra, and has a background in Numerical Analysis.
+Mahsa is a PhD candidate at the University of Regina. Her research project is centred around using graph theory to answer questions that arise in design theory. In particular, her main PhD research is on the extensions of the famous Erdős-Ko-Rado theorem to t-intersecting families of perfect matchings in graphs. She is Also interested in Matrix theory and linear algebra, and has a background in Numerical Analysis.
