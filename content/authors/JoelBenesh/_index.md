@@ -39,7 +39,7 @@ social:
   link: https://www.linkedin.com/in/joel-benesh/
 
 user_groups:
-- committee: H. Huang, M. Ray, P. Hamidi, J. Hoepner, J. Benesh
+- committee: members
   role: Team 8 - NRCAN - Canadian Forest Services 2
 
 tags:
